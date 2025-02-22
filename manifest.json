@@ -1,0 +1,10 @@
+{
+    "name": "FancyVanillaIcons",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/RS-Mind/FancyVanillaIcons",
+    "description": "Uses Fancy Card Bar to give fancy icons to all vanilla cards.",
+    "dependencies": [
+		"willis81808-UnboundLib-3.2.13",
+		"RS_Mind-FancyCardBar-1.1.1"
+    ]
+}
