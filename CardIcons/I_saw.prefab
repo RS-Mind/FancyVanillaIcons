@@ -677,7 +677,6 @@ GameObject:
   - component: {fileID: 2711642255835286902}
   - component: {fileID: 8043590838155630316}
   - component: {fileID: 743614403759398557}
-  - component: {fileID: 3035707006871515630}
   m_Layer: 10
   m_Name: Art_Body
   m_TagString: Untagged
@@ -748,20 +747,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
---- !u!114 &3035707006871515630
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4705409865891108663}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c44d90ea76b9d64d8e3a17ac88dec60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amount: 30
-  speed: 50
 --- !u!1 &5523086563883898393
 GameObject:
   m_ObjectHideFlags: 0

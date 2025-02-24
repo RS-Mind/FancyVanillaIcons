@@ -17,7 +17,7 @@ namespace FancyVanillaIcons
     {
         private const string ModId = "com.rsmind.rounds.fancyvanillaicons";
         private const string ModName = "Fancy Vanilla Icons";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
         public const string ModInitials = "FVI";
         public static FancyVanillaIcons instance { get; private set; }
 
