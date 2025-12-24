@@ -1,9 +1,8 @@
 {
     "name": "FancyVanillaIcons",
     "references": [
-        "UnboundLib",
-        "Unity.TextMeshPro",
-        "FancyCardBar"
+        "FancyCardBar",
+        "UnboundLib"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
@@ -13,8 +12,9 @@
     "precompiledReferences": [
         "0Harmony.dll",
         "BepInEx.dll",
-        "Assembly-CSharp.dll",
-        "PhotonUnityNetworking.dll"
+        "PhotonUnityNetworking.dll",
+        "Unity.TextMeshPro.dll",
+        "Assembly-CSharp.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": []

@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 6329436480470519869}
   - component: {fileID: 3665389356289399492}
   - component: {fileID: 8355036255085175438}
-  - component: {fileID: 5143481906112890136}
   m_Layer: 10
   m_Name: Art_RightPaper_Text
   m_TagString: Untagged
@@ -73,20 +72,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
---- !u!114 &5143481906112890136
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 90274602113211897}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c44d90ea76b9d64d8e3a17ac88dec60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amount: 30
-  speed: 50
 --- !u!1 &1195050744924950014
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,7 +243,6 @@ GameObject:
   - component: {fileID: 336312055310758170}
   - component: {fileID: 103433299280160841}
   - component: {fileID: 8638700554442988005}
-  - component: {fileID: 1647978046862406143}
   m_Layer: 10
   m_Name: Art_RightPaper
   m_TagString: Untagged
@@ -321,20 +305,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
---- !u!114 &1647978046862406143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3354102853479997868}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c44d90ea76b9d64d8e3a17ac88dec60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amount: 30
-  speed: 50
 --- !u!1 &7984112345485041652
 GameObject:
   m_ObjectHideFlags: 0
@@ -346,7 +316,6 @@ GameObject:
   - component: {fileID: 4884324143552546785}
   - component: {fileID: 3172455295221675203}
   - component: {fileID: 6802206651586929034}
-  - component: {fileID: 7972902710008678782}
   m_Layer: 10
   m_Name: Art_Body
   m_TagString: Untagged
@@ -408,20 +377,6 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
---- !u!114 &7972902710008678782
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7984112345485041652}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c44d90ea76b9d64d8e3a17ac88dec60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amount: 30
-  speed: 50
 --- !u!1 &8760034694651601158
 GameObject:
   m_ObjectHideFlags: 0
