@@ -6,3 +6,6 @@
 
 #### 1.0.3
 - Correctly mispelled Prisitne Perseverence
+
+#### 1.0.4:
+- Removed animator accidentally placed on Trickster's icon
